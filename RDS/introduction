@@ -1,1 +1,5 @@
-this is rds
+Relational Data Base its used for store for sensitive information like a users emails.passwords
+and user informaton like a cedit and debit card information in back end we stored. for that we use 
+this RDS service in aws .by using RDS we will have security ,backup ,automation and its will reduce 
+manual work for few times by using this " AWS RDS ".
+
