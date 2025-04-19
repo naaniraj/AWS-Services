@@ -7,7 +7,8 @@ load balancer use several statagys to reduce in comming traffic  to minimize
 to destribute traffice among the all servers to reduce the in comming trafice.
 
 ## Load balancer architecture 
-![Description](![ChatGPT Image Apr 19, 2025, 10_37_54 AM](https://github.com/user-attachments/assets/62eba109-40fa-48b9-bf9c-5ff0160cd3cb)
+![Description](![![load-balancer-blog-web-2 0-1](https://github.com/user-attachments/assets/6998e339-c51d-45bd-994e-7cdcdd1eae99)
+)
 )
 
 ## Types OF  Load Balancer ?
