@@ -13,6 +13,8 @@ to destribute traffice among the all servers to reduce the in comming trafice.
 
 ## Types OF  Load Balancer ?
 1️⃣ Clssic Load Balancer :-
+Its a tredestnal Load Balancer and old one 
+we use this for simple applications , 
 
 2️⃣ Application Load Balancer :-
 
