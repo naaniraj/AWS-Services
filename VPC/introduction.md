@@ -23,7 +23,7 @@ subet is like a isolated space in our vpc to keep the data inside of it
       we can cannact , and access the services that inside
 
   2 . Private Subnet – isolated from the internet.
-       we cant acces from outside ,we keep user sensitive information here
+       we cant acces from outside ,we keep user sensitive information herelike a data-base
        
 ✅ 2. Internet Gateway (IGW)
 
