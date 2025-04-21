@@ -13,7 +13,7 @@ its provide secure communication to our application .
 
 ![vpc](https://github.com/user-attachments/assets/a5771092-66d3-4822-b2da-d779cd2ed613)
 
-## Components in VPC 
+##  Components in VPC 
 
 ✅ 1. Subnets 
 
