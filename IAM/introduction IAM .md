@@ -29,6 +29,22 @@ we difine  when a user login what kind of access and permissions he shoud have  
 
  simple EX :-    ✅ Allow Full Access to S3
 
+         --- 
+         
+         {
+      "Version": "2012-10-17",
+     "Statement": [
+       {
+         "Effect": "Allow",
+         "Action": "sts:AssumeRole",
+         "Resource": "arn:aws:iam::123456789012:role/DevOpsRole"
+       }
+     ]
+     }
+
+         ---
+   
+
    
   
  
