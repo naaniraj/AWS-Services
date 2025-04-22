@@ -24,7 +24,7 @@ this is help for protect our data like deleting ,update ,modifaying.
 
 ## 🔐 IAM  Policies :-
 
-It's a document written in " JSON " formate  , it's contain set of permissions in aws 
+It's a document written in " JSON " formate  , it's contain set of permissions in aws ,
 we difine  when a user login what kind of access and permissions he shoud have  in aws  
 
  simple EX :-    ✅ Allow Full Access to S3
