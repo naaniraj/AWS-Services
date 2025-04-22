@@ -3,4 +3,4 @@ AWS --> RDS --> create Database --> standerd create --> my SQL --> free tier -->
 🟢 Master PASSWORD : ******* ---> 🟢Conform Master PASSWORD : ******** ---> 🟢 select : db.t4g.micro
 🟢 Storage typae : Genral purpse SSD (gp3) ---> 🟢Allocated storage : 20 --->✅ Enable Storage Autoscaling 
 🟢Cannactivity -- ✅Connact to an EC2 Compute resource ---> EC2 instece (chose an EC2 insence )
-🟢 VPC (✅ Select which VPC we want ) --->
+🟢VPC (✅ Select which VPC we want ) --->
