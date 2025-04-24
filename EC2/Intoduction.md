@@ -1,8 +1,12 @@
+## What is EC2 ?
 EC2 (Elastic Compute Cloud) is a service from Amazon Web Services (AWS) that provides virtual computers (servers) on the internet.
 
 In simple terms:
 
 ➕ It's like renting a computer from AWS instead of buying your own.
+
 ➕ You can use it to run websites, applications, or any software just like you do on your own computer.
+
 ➕ It’s flexible—you can choose how much power (CPU, RAM, storage) you need.
+
 ➕ You only pay for what you use (like renting a hotel room instead of buying a house).
