@@ -1,7 +1,0 @@
-What is EBS ?
-***************************
-EBS (Elastic Block Store) is like a hard drive in the cloud that you can attach to AWS servers (EC2 instances).
-
-Just like a USB drive or an external hard disk, EBS stores data permanently, even if the server is turned off or restarted.
-
-It is used to store databases, files, and application data and can be increased in size whenever needed.
