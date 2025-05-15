@@ -1,9 +1,0 @@
-this is auto scaling ?
-*************************************
-uto Scaling is a feature that automatically adjusts the number of servers based on demand.
-
-Imagine you have a website, and suddenly, many people start visiting it.
-Auto Scaling adds more servers to handle the traffic. When traffic decreases, it removes extra servers to save costs.
-
-It’s like a restaurant hiring more chefs when customers increase and reducing staff when it's less busy,
-ensuring smooth service without wasting resources.
