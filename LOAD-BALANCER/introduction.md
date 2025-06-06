@@ -21,3 +21,8 @@ we use this for simple applications ,
 3️⃣ Network Load Balancer :-
 
 4️⃣ Gate way Load Balancer :-
+
+## Eenifits of Load-Balancer :
+'***High Avalabulity and Reliability***' :-
+Load Balancer Destribute incomming traffic across multiple servers ,
+it's help's to prevent downtime due to server failure and improves the overall relibility of your application .
