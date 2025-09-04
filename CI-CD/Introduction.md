@@ -13,6 +13,10 @@ CI: Every time an order (code change) comes in, ingredients (code) are checked a
 CD: Once the food is ready and checked, it's either served automatically (Continuous Deployment) or kept ready for serving (Continuous Delivery).
 This process helps companies release updates quickly without breaking the app! ðŸš€
 
+#### CI-CD ARCHITECHERE 
+****************************
+
+![![CI-CD Pipeline](https://github.com/user-attachments/assets/027d511c-f93e-4b4b-a428-e48e51210214)
 
 
 
@@ -25,7 +29,9 @@ This process helps companies release updates quickly without breaking the app! ð
 
 
 
-Cha
+
+
+
 
 
 
