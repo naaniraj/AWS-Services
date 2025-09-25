@@ -7,44 +7,9 @@ and we can reuse these tmplates mutiple times when ever you need .
 when we upload the template in cloud formation it will create the 
 services and resoureces very esay .
 
-##  Cloud Formation 🌥️ Artechere
-********************************
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##  Cloud Formation 🌥️ Architecture
+***************************************
+ ![AWS Cloud formation](https://github.com/user-attachments/assets/d5b0756b-fe5c-48e1-96e2-0e985e6e14e7)
 
 
 ###  🌨️  S3 with  Cloud Formation
