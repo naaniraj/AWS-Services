@@ -1,4 +1,7 @@
 ##  💼 What is vpc ?
+**********************
+![vpc](https://github.com/user-attachments/assets/99b22408-b71a-4757-831f-cbff0fc8053e)
+
 VPC is a one of the service in aws  call vartuval private cloude ,
 
 it's like a isolated network inside our server to protect our data ,
@@ -10,11 +13,11 @@ its provide secure communication to our application .
  we configure every thing inside of our VPC 
 
 ##  VPC Archetture 
-
+****************************
 ![vpc](https://github.com/user-attachments/assets/a5771092-66d3-4822-b2da-d779cd2ed613)
 
 ##  Components in VPC 
-
+***********************
 ***✅ 1. Subnets***
 
 subet is like a isolated space in our vpc to keep the data inside of it
