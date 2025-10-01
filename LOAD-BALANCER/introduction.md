@@ -22,7 +22,7 @@ we use this for simple applications ,
 
 4️⃣ Gate way Load Balancer :-
 
-## ⚖️❤️  Eenifits of Load-Balancer :-
+## ⚖️❤️ Benifits of Load-Balancer :-
 *************************************
 '***1 . Ensure High Avalabulity and Reliability***' :-<br>
 Load Balancer Destribute incomming traffic across multiple servers ,<br>
@@ -40,3 +40,7 @@ ninimizing the impact on users andmaintaining continous server avalabulity.<br>
 '***4 . Geographic Destribution***' :-<br>
 Load Balncer can destribute trafic across mutiple data senters or regions ,enabling geographic redundancy,<br>
 By placing servers closer to your users , you canreduce letency and improve response time times .<br> 
+## Dif Between API vs LB
+**************************
+![𝗔𝗣𝗜 𝗚𝗮𝘁𝗲𝘄𝗮𝘆 𝘃𝘀  𝗟𝗼𝗮𝗱 𝗕𝗮𝗹𝗮𝗻𝗰𝗲𝗿](https://github.com/user-attachments/assets/d3eaa391-9f9d-4def-a306-e62517ffbe26)
+
